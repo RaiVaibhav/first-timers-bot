@@ -1,0 +1,10 @@
+
+repository:
+  name: repo-name
+
+labels:
+  - name: bug
+    color: CC0000
+  - name: feature
+    color: 336699
+  - name: first-timers-only
